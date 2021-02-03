@@ -1,0 +1,4 @@
+.idea/*
+dataset/*
+venv/*
+pytorch_simple_fullynet.py
